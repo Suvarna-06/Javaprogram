@@ -1,6 +1,4 @@
-package Programs;
-
-import org.w3c.dom.ls.LSOutput;
+package JavaPrograms;
 
 public class Lab06_printF {
     public static void main(String[] args) {

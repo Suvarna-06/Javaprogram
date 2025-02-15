@@ -1,4 +1,4 @@
-package Programs;
+package JavaPrograms;
 
 public class Lab02_CommonMath {
     public static void main(String[] args) {

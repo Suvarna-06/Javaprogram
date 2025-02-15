@@ -1,4 +1,4 @@
-package Programs;
+package JavaPrograms;
 
 public class Lab07_Constants  {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package ex_16_Array;
 import java.util.Scanner;
 
 
-public class Lab158_2d_Right_Triangles {
+public class Lab143_2d_Right_Triangles {
     public static void main(String[]args){
 
         Scanner sc = new Scanner(System.in);
