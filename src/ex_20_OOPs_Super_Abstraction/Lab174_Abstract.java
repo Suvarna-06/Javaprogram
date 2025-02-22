@@ -18,6 +18,7 @@ abstract class Father{
       System.out.println("Given 20K");
   }
 }
+
 class Child extends Father{
     // Now child has to pay the 50K loan by overriding the father
     @Override
