@@ -11,15 +11,12 @@ public class Lab168_Example {
         amit.setBal(100000,isCashier);
         System.out.println(amit.getBal());
 
-
-
-
     }
 }
 
 class ICICIBank{
     // Encapusulation is a fundamental concept in OOPs
-    // - Bundling of data and methods that operate on that data withina single unit.
+    // - Bundling of data and methods that operate on that data within a single unit.
     //- Data members should be private in nature.
     //- Methods with getter and setter only, you can access the data members / attributes.
 
@@ -31,6 +28,7 @@ class ICICIBank{
     }
 
     public void setName(String name){
+
         this.name = name;
     }
 
@@ -45,17 +43,6 @@ class ICICIBank{
             System.out.println("Not allowed");
         }
     }
-
-
-
-
-
-
-
-
-
-
-
 
 
     public ICICIBank(String name,long bal){

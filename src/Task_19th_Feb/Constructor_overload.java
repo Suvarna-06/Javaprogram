@@ -9,7 +9,6 @@ public class Constructor_overload {
         bike3.display();
         Bike2 bike4 = new Bike2("Ghost rider", 2020);
         bike4.display();
-        // Display
 
 
 

@@ -27,15 +27,6 @@ class Wagon extends Engine{
     }
 }
 
-
-
-
-
-
-
-
-
-
 abstract  class Engine{
      abstract void startEngine();
      abstract void stopEngine();
