@@ -1,5 +1,6 @@
 package Task_5th_March;
 
+
 public class Default_AccessModifier {
     public static void main(String[] args) {
         Friend friend = new Friend();
