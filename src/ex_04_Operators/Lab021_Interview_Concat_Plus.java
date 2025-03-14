@@ -3,8 +3,8 @@ package ex_04_Operators;
 public class Lab021_Interview_Concat_Plus {
     public static void main(String[] args) {
 
-        int a= 10;
-        int b=30;
+        int a = 10;
+        int b = 30;
         System.out.println(a+b); // Math
 
         String name1="Pramod";

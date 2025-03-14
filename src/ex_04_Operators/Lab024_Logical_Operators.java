@@ -2,13 +2,13 @@ package ex_04_Operators;
 
 public class Lab024_Logical_Operators {
     public static void main(String[] args) {
-        boolean a =true;
+        boolean a = true;
         System.out.println(!a);
 
-        boolean b =true;
+        boolean b = true;
         System.out.println(!!b);
 
-        boolean c =true || false;
+        boolean c = true || false;
         System.out.println(c);
     }
 }

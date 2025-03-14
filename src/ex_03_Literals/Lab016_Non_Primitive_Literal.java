@@ -5,7 +5,7 @@ public class Lab016_Non_Primitive_Literal {
 
         // Primitive
          byte b =10;
-         int gae = 65;
+         int ge = 65;
 
          // Non-Primitive (String - bunch of cahr)
         String name = null; // Size (Bits) -> 64

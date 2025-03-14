@@ -6,7 +6,7 @@ public class Lab018_Operators_Airthematic_operators {
         //Arithemetic Operators
         // + (Addition)
         //   - (subtraction)
-        // * (Multiplication0
+        // * (Multiplication
 //         / (Division)
 //         %(Modulo) | Modulus - Remainder
 
@@ -19,8 +19,6 @@ public class Lab018_Operators_Airthematic_operators {
         System.out.println(a/b);
         System.out.println(a%b);
         System.out.println(a/c);
-
-
 
     }
 }
