@@ -4,6 +4,7 @@
 This repository documents my journey in learning Java.
 
 ## Java Topics Covered
+
 | No. | Topic |
 |----|------------------------------|
 | 1  | **Java Basics** |
