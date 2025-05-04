@@ -25,6 +25,7 @@ This repository documents my journey in learning Java.
 | 15 | Collections Framework |
 | 16 | Threads & Multithreading |
 
+
 <img width="516" alt="image" src="https://github.com/user-attachments/assets/f2e0d93b-7cd0-4e6a-a439-f18f6f97b968" />
 
 Feel free to explore my repository and check out the code samples!
