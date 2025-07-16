@@ -16,4 +16,4 @@ public class Convert_Days_To_Years {
     }
 
 }
- //000 days is equivalent to 2 years, 9 months, and 0 days.
+ //1000 days is equivalent to 2 years, 9 months, and 0 days.

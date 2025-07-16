@@ -10,7 +10,7 @@ public class Lab151_Car2 {
 //    String model;
 //    int year;
 //
-//
+//]\\]?
 //    Car2(){
 //        model= "XXX";
 //        year  = 1900;
