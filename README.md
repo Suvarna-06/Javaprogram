@@ -1,9 +1,14 @@
 # Java Learning and API Testing Practice
 
+
 ## Overview
+
 This repository documents my journey in learning Java.
 
+
 ## Java Topics Covered
+
+
 | No. | Topic |
 |----|------------------------------|
 | 1  | **Java Basics** |
@@ -22,6 +27,9 @@ This repository documents my journey in learning Java.
 | 14 | Wrapper Classes |
 | 15 | Collections Framework |
 | 16 | Threads & Multithreading |
+
+
+
 
 <img width="516" alt="image" src="https://github.com/user-attachments/assets/f2e0d93b-7cd0-4e6a-a439-f18f6f97b968" />
 
